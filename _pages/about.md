@@ -22,7 +22,7 @@ Education
 Advisor: [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long)
 
 * M.S. (2020) in Information and Communication Engineering, Beijing University of Posts and Telecommunications  
-Advisor: Prof. [Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao)
+Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao)
 
 * B.S. (2017) in an elite class, equivalent to an honoured degree, Beijing University of Posts and Telecommunications  
 
