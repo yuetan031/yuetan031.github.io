@@ -16,6 +16,21 @@ News
 ------
 * 2021/12: One paper of [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
+Education
+------
+* Ph.D. (Current) in Computer Science, University of Technology Sydney  
+Advisor: [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long)
+
+* M.S. (2020) in Information and Communication Engineering, Beijing University of Posts and Telecommunications  
+Advisor: Prof. [Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao)
+
+* B.S. (2017) in an elite class, equivalent to an honoured degree, Beijing University of Posts and Telecommunications  
+
+Contact
+======
+* Email: yue.tan\[at\]student\[dot\]uts\[dot\]edu\[dot\]au
+
+* Office: Level 12, Building 2, 15 Broadway, Ultimo, NSW 2007
 
 
 <!-- 
