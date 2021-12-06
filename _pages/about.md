@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "xx"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
-
-About Me
-======
 I am a Ph.D. student at Australian Artificial Intelligence Institute, University of Technology Sydney, supervised by [Prof. Chengqi Zhang](https://profiles.uts.edu.au/chengqi.zhang), [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long) and [Dr. Jing Jiang](https://profiles.uts.edu.au/jing.jiang). I obtained my M.S. degree and B.S. degree from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd).
 
 My research interests are in machine learning, federated learning and reinforcement learning. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. 
+
+News
+------
+* 2021/12: One paper of [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+
 
 
 
