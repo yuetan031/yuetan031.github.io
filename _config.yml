@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
