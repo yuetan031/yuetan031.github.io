@@ -175,9 +175,6 @@ kramdown:
 
 # Collections
 collections:
-#   teaching:
-#     output: true
-#     permalink: /:collection/:path/
   services:
     output: true
     permalink: /:collection/:path/
@@ -214,19 +211,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-#   # _teaching
-#   - scope:
-#       path: ""
-#       type: teaching
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comments: true
   # _services
   - scope:
       path: ""
-      type: services
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -241,15 +229,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-#   # _portfolio
-#   - scope:
-#       path: ""
-#       type: portfolio
-#     values:
-#       layout: single
-#       author_profile: true
-#       share: true
-#       comment: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
