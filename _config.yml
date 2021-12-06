@@ -175,15 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+#   teaching:
+#     output: true
+#     permalink: /:collection/:path/
+  services:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -191,6 +194,8 @@ collections:
 
 # Defaults
 defaults:
+
+
   # _posts
   - scope:
       path: ""
