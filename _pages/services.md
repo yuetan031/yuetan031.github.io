@@ -15,4 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-sss
+Program Committee
+----
+International Conference on Advanced Data Mining and Applications (ADMA) 2021
+
+Journal Reviewer
+----
+
+Conference Organisation
+----
