@@ -22,7 +22,7 @@ author_profile: true
 -----
 * FedProto: Federated Prototype Learning across Heterogeneous Clients \[[PDF](https://arxiv.org/pdf/2105.00243.pdf)\] \[[Code](https://github.com/yuetan031/fedproto)\]  
 **Yue Tan**, Guodong Long, Lu Liu, Tianyi Zhou, Qinghua Lu, Jing Jiang, Chengqi Zhang.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<span style="color:red"> *15% acceptance rate* </span>)
+AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<span style="color:red">*15% acceptance rate*</span>)
 
 * An In-Vehicle Keyword Spotting System with Multi-Source Fusion for Vehicle Applications \[[PDF](https://arxiv.org/pdf/1902.04326.pdf)\]  
 **Yue Tan**, Kan Zheng, Lei Lei.  
@@ -36,11 +36,11 @@ IEEE Access, 2020.
 
 * Dynamic Energy Dispatch Based on Deep Reinforcement Learning in IoT-Driven Smart Isolated Microgrids \[[PDF](https://arxiv.org/pdf/2002.02581.pdf)\]  
 Lei Lei, **Yue Tan**, Glenn Dahlenburg, Wei Xiang, Kan Zheng.  
-IEEE Internet of Things Journal, 2020. (<span style="color:red"> *IF: 9.94* </span>)
+IEEE Internet of Things Journal, 2020. (<span style="color:red">*IF: 9.94*</span>)
 
 * Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges \[[PDF](https://arxiv.org/pdf/1907.09059.pdf)\]  
 Lei Lei, **Yue Tan**, Kan Zheng, Shiwen Liu, Kuan Zhang, Xuemin Shen.  
-IEEE Communications Surveys & Tutorials, 2020. (<span style="color:red"> *Top-1 Journal in IEEE, IF: 23.7* </span>)
+IEEE Communications Surveys & Tutorials, 2020. (<span style="color:red">*Top-1 Journal in IEEE, IF: 25.25*</span>)
 
 ## Book Chapter
 -----
