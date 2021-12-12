@@ -36,11 +36,11 @@ IEEE Access, 2020.
 
 * Dynamic Energy Dispatch Based on Deep Reinforcement Learning in IoT-Driven Smart Isolated Microgrids \[[PDF](https://arxiv.org/pdf/2002.02581.pdf)\]  
 Lei Lei, **Yue Tan**, Glenn Dahlenburg, Wei Xiang, Kan Zheng.  
-IEEE Internet of Things Journal, 2020.
+IEEE Internet of Things Journal, 2020. (<span style="color:red"> *IF: 9.94* </span>)
 
 * Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges \[[PDF](https://arxiv.org/pdf/1907.09059.pdf)\]  
 Lei Lei, **Yue Tan**, Kan Zheng, Shiwen Liu, Kuan Zhang, Xuemin Shen.  
-IEEE Communications Surveys & Tutorials, 2020.
+IEEE Communications Surveys & Tutorials, 2020. (<span style="color:red"> *Top-1 Journal in IEEE, IF: 23.7* </span>)
 
 ## Book Chapter
 -----
