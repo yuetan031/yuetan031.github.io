@@ -17,9 +17,9 @@ author_profile: true
 
 Conference PC Member/Reviewer
 ----
-* PC Member, Australasian Joint Conference on Artificial Intelligence (AJCAI) 2022
-* PC Member, International Conference on Advanced Data Mining and Applications (ADMA) 2021
-* PC Member, IEEE International Conference on Advanced Learning Technologies (ICALT) 2022 - Track 15
+* PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
+* PC Member, [International Conference on Advanced Data Mining and Applications (ADMA) 2021](https://adma2021.net/)
+* PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/) - Track 15
 * Reviewer, ICML 2022
 * Subreviewer, AAAI 2021, 2022 
 * Subreviewer, ICLR 2021, 2022 
