@@ -32,6 +32,7 @@ Conference PC Member/Reviewer
 
 Journal Reviewer
 ----
+* Reviewer, IEEE Communications Letters 2022
 * Subreviewer, Knowledge-Based Systems 2021
-* Subreviewer, TNNLS 2021
+* Subreviewer, IEEE TNNLS 2021
 * Subreviewer, Future Generation Computer Systems 2020
