@@ -27,7 +27,7 @@ Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAA
 * B.S. (2017) in an elite class, equivalent to an honoured degree, Beijing University of Posts and Telecommunications  
 
 Contact
-======
+------
 * Email: yue.tan\[at\]student\[dot\]uts\[dot\]edu\[dot\]au
 
 * Office: Level 12, Building 2, 15 Broadway, Ultimo, NSW 2007
