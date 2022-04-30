@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Australian AI Institute, University of Technology Sydney, supervised by [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [Dr. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://profiles.uts.edu.au/chengqi.zhang). I obtained my M.S. degree and B.S. degree from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd).
+I am a Ph.D. student at Australian AI Institute, University of Technology Sydney, supervised by [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [Dr. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://profiles.uts.edu.au/chengqi.zhang). I obtained my B.S. degree and M.S. degree from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd).
 
 My research interests are in machine learning, federated learning and reinforcement learning. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. 
 
