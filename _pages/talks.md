@@ -16,4 +16,4 @@ author_profile: true
 {% endfor %} -->
 
 
-Federated Prototype Learning over Heterogeneous Devices, PhD Lightning Talks, [ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school), Gold Coast, Australia (Dec 3, 2021).
+Federated Prototype Learning over Heterogeneous Clients, PhD Lightning Talks, [ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school), Gold Coast, Australia (Dec 3, 2021).
