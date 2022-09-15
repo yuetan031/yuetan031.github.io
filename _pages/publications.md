@@ -22,7 +22,7 @@ author_profile: true
 -----
 * Federated Learning from Pre-Trained Models: A Contrastive Learning Approach  
 **Yue Tan**, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang.  
-Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.
+Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
 A short version has been accepted to ICML Workshop on Pre-training, 2022.
 
 * FedProto: Federated Prototype Learning across Heterogeneous Clients \[[PDF](https://arxiv.org/pdf/2105.00243.pdf)\] \[[Code](https://github.com/yuetan031/fedproto)\]  
