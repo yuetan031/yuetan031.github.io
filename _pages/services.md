@@ -21,6 +21,7 @@ Conference PC Member/Reviewer
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/) - Track 15
 * PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
 * PC Member, [International Conference on Advanced Data Mining and Applications (ADMA) 2021](https://adma2021.net/)
+* Reviewer, [NeurIPS 2022 MetaLearn Workshop](https://meta-learn.github.io/2022/)
 * Reviewer, [ICML 2022](https://icml.cc/Conferences/2022)
 * Reviewer, [ICML 2022 Pre-training Workshop](https://pretraining.github.io/)
 * Subreviewer, AAAI 2021, 2022 
