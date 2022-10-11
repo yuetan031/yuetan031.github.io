@@ -28,6 +28,11 @@ Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAA
 
 * B.S. (2017) in an elite class, equivalent to an honoured degree, Beijing University of Posts and Telecommunications  
 
+Honors & Awards
+------
+* \[2022\] NeurIPS 2022 Scholar Award.
+* \[2021\] Data61 Top-Up Scholarship.
+
 Contact
 ------
 * Email: yue.tan\[at\]student\[dot\]uts\[dot\]edu\[dot\]au
