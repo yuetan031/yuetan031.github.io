@@ -20,6 +20,10 @@ author_profile: true
 
 ## Conference
 -----
+* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
+**Yue Tan**, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
+
 * Federated Learning from Pre-Trained Models: A Contrastive Learning Approach  
 **Yue Tan**, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang.  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
