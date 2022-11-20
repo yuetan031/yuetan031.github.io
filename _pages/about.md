@@ -14,7 +14,9 @@ My research interests are in machine learning, federated learning and reinforcem
 
 News
 ------
-* 09/2022: One paper about federated contrastive learning has been accepted to [NeurIPS 2022](https://nips.cc/Conferences/2022).
+* 11/2022: One paper about federated graph learning has been accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+* 11/2022: I am honoured to receive the [NeurIPS 2022 Scholar Award](https://neurips.cc/Conferences/2022/FinancialAssistance).
+* 09/2022: One paper about [federated contrastive learning](https://arxiv.org/pdf/2209.10083.pdf) has been accepted to [NeurIPS 2022](https://nips.cc/Conferences/2022).
 * 07/2022: One paper about [federated learning from pre-trained models](https://openreview.net/pdf?id=j6-_a4VL6h) has been accepted to [ICML Workshop 2022](https://pretraining.github.io/).
 * 12/2021: One paper about [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
@@ -30,8 +32,8 @@ Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAA
 
 Honors & Awards
 ------
-* \[2022\] NeurIPS 2022 Scholar Award.
-* \[2021\] Data61 Top-Up Scholarship.
+* 10/2022 NeurIPS 2022 Scholar Award.
+* 08/2021 Data61 Top-Up Scholarship.
 
 Contact
 ------
