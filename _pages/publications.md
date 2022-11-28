@@ -20,11 +20,11 @@ author_profile: true
 
 ## Conference
 -----
-* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
+* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
 **Yue Tan**, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023.  
 
-* Federated Learning from Pre-Trained Models: A Contrastive Learning Approach  
+* Federated Learning from Pre-Trained Models: A Contrastive Learning Approach \[[PDF](https://arxiv.org/pdf/2209.10083.pdf)\] \[[Code](https://github.com/yuetan031/FedPCL)\]  
 **Yue Tan**, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang.  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.  
 A short version has been accepted to ICML Workshop on Pre-training, 2022.
