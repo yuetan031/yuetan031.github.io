@@ -35,7 +35,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<span style="color
 
 * An In-Vehicle Keyword Spotting System with Multi-Source Fusion for Vehicle Applications \[[PDF](https://arxiv.org/pdf/1902.04326.pdf)\]  
 **Yue Tan**, Kan Zheng, Lei Lei.  
-IEEE Wireless Communications and Networking Conference (WCNC), 2019.
+IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 
 ## Journal
 -----
