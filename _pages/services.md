@@ -35,6 +35,7 @@ Conference PC Member/Reviewer
 
 Journal Reviewer
 ----
+* Reviewer, Knowledge and Information Systems 2022
 * Reviewer, Journal of Systems Architecture 2022
 * Reviewer, IEEE Communications Letters 2022
 * Subreviewer, Knowledge-Based Systems 2021
