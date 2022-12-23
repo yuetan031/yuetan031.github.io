@@ -38,6 +38,7 @@ Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAA
 
 Honors & Awards
 ------
+* 12/2022: AAII-UTS Best Paper Award.
 * 10/2022: NeurIPS 2022 Scholar Award.
 * 08/2021: Data61 Top-Up Scholarship.
 
