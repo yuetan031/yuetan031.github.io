@@ -17,6 +17,7 @@ author_profile: true
 
 Conference PC Member/Reviewer
 ----
+* PC Member, [IJCAI 2023](https://ijcai-23.org/)
 * PC Member, [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/) - Track 15
 * PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
