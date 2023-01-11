@@ -14,7 +14,7 @@ My research interests are in machine learning, federated learning, and reinforce
 
 News
 ------
-* 11/2022: One paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted to **AAAI 2023**.
+* 11/2022: One paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted to **AAAI 2023** <span style="color:red">(Oral)</span>.
 * 11/2022: I am honoured to receive the [NeurIPS 2022 Scholar Award](https://neurips.cc/Conferences/2022/FinancialAssistance).
 * 09/2022: One paper on [federated learning](https://arxiv.org/pdf/2209.10083.pdf) has been accepted to **NeurIPS 2022** <span style="color:red">(Spotlight)</span>.
 * 07/2022: One paper on [federated learning](https://openreview.net/pdf?id=j6-_a4VL6h) has been accepted to **ICML Workshop 2022**.
