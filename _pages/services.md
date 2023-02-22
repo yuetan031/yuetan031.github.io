@@ -17,9 +17,11 @@ author_profile: true
 
 Conference PC Member/Reviewer
 ----
+* Reviewer, [KDD 2023](https://kdd.org/kdd2023/)
+* PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2023 - Track 15](https://tc.computer.org/tclt/icalt-2023-track-15-ioese/)
 * PC Member, [IJCAI 2023](https://ijcai-23.org/)
 * PC Member, [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
-* PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/) - Track 15
+* PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022 - Track 15](https://tc.computer.org/tclt/icalt-2022-track-15-ioese/)
 * PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
 * PC Member, [International Conference on Advanced Data Mining and Applications (ADMA) 2021](https://adma2021.net/)
 * Reviewer, [IEEE International Conference on Multimedia and Expo (ICME) 2023](https://www.2023.ieeeicme.org/)
