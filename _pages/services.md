@@ -21,27 +21,27 @@ Conference PC Member/Reviewer
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2023 - Track 15](https://tc.computer.org/tclt/icalt-2023-track-15-ioese/)
 * PC Member, [IJCAI 2023](https://ijcai-23.org/)
 * PC Member, [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
+* PC Member, [IEEE International Conference on Multimedia and Expo (ICME) 2023](https://www.2023.ieeeicme.org/)
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022 - Track 15](https://tc.computer.org/tclt/icalt-2022-track-15-ioese/)
-* PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
-* PC Member, [International Conference on Advanced Data Mining and Applications (ADMA) 2021](https://adma2021.net/)
-* Reviewer, [IEEE International Conference on Multimedia and Expo (ICME) 2023](https://www.2023.ieeeicme.org/)
 * Reviewer, [NeurIPS 2022 MetaLearn Workshop](https://meta-learn.github.io/2022/)
 * Reviewer, [ICML 2022](https://icml.cc/Conferences/2022)
 * Reviewer, [ICML 2022 Pre-training Workshop](https://pretraining.github.io/)
-* Subreviewer, AAAI 2021, 2022 
+* PC Member, [Australasian Joint Conference on Artificial Intelligence (AJCAI) 2021](http://ajcai2021.net/)
+* PC Member, [International Conference on Advanced Data Mining and Applications (ADMA) 2021](https://adma2021.net/)
+<!-- * Subreviewer, AAAI 2021, 2022 
 * Subreviewer, ICLR 2021, 2022 
 * Subreviewer, NeurIPS 2020, 2021
 * Subreviewer, ICML 2021
 * Subreviewer, ICCV 2021
 * Subreviewer, ICDM 2020, 2021
 * Subreviewer, CIKM 2021
-* Subreviewer, KDD 2021
+* Subreviewer, KDD 2021 -->
 
 Journal Reviewer
 ----
 * Reviewer, Knowledge and Information Systems 2022
 * Reviewer, Journal of Systems Architecture 2022
 * Reviewer, IEEE Communications Letters 2022
-* Subreviewer, Knowledge-Based Systems 2021
+<!-- * Subreviewer, Knowledge-Based Systems 2021
 * Subreviewer, IEEE TNNLS 2021
-* Subreviewer, Future Generation Computer Systems 2020
+* Subreviewer, Future Generation Computer Systems 2020 -->
