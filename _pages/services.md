@@ -17,8 +17,13 @@ author_profile: true
 
 Conference PC Member/Reviewer
 ----
+* Reviewer, [ADMA 2023](https://adma2023.uqcloud.net/)
+* Reviewer, [ICML 2023 - FL](https://fl-icml2023.github.io/)
+* Reviewer, [KDD 2023 - FL for Distributed Data Mining](https://fl4data-mining.github.io/)
+* Reviewer, [NeurIPS 2023](https://neurips.cc/Conferences/2023)
 * Reviewer, [KDD 2023](https://kdd.org/kdd2023/)
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2023 - Track 15](https://tc.computer.org/tclt/icalt-2023-track-15-ioese/)
+* Reviewer, [CVPR 2023 - FedVision](https://fedvision.github.io/fedvision-workshop/)
 * PC Member, [IJCAI 2023](https://ijcai-23.org/)
 * PC Member, [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)
 * PC Member, [IEEE International Conference on Multimedia and Expo (ICME) 2023](https://www.2023.ieeeicme.org/)
@@ -39,6 +44,7 @@ Conference PC Member/Reviewer
 
 Journal Reviewer
 ----
+* Reviewer, SCIENCE CHINA Information Sciences
 * Reviewer, Knowledge and Information Systems 2022
 * Reviewer, Journal of Systems Architecture 2022
 * Reviewer, IEEE Communications Letters 2022
