@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-Federated Prototype Learning over Heterogeneous Clients, PhD Lightning Talks, [ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school), Gold Coast, Australia (Dec 3, 2021).
+* Recent Advancement on Federated Learning Combating Non-IID Data, [IJCNN 2023 Tutorial](https://2023.ijcnn.org/tutorials#session-6-48), Gold Coast, Australia (Jun 18, 2023).
+* Federated Prototype Learning over Heterogeneous Clients, PhD Lightning Talks, [ACM Multimedia Asia 2021](https://mmasia2021.uqcloud.net/phd-school), Gold Coast, Australia (Dec 3, 2021).
