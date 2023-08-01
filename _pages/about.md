@@ -40,6 +40,11 @@ Advisor: [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAA
 
 * B.S. (2017) in an elite class, equivalent to an honoured degree, Beijing University of Posts and Telecommunications  
 
+Industrial Experiences
+------
+* **Amazon**, Applied Scientist Intern, Working with IML team led by [Prof. Anton van den Hengel](https://scholar.google.com.au/citations?user=nMGZ2ZQAAAAJ&hl=en), 2023. 
+* **Sony AI**, Research Intern, Working with PPML team led by [Dr. Lingjuan Lyu](https://sites.google.com/view/lingjuan-lyu/home?authuser=0), 2023. 
+
 Honors & Awards
 ------
 * 01/2023: AAAI 2023 Travel Grant.
