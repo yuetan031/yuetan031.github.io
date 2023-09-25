@@ -14,7 +14,7 @@ My research interests are in machine learning, federated learning, and reinforce
 
 News
 ------
-* 09/2023: One paper on [federated learning for test-time shifts]() has been accepted to **NeurIPS 2023**.
+* 09/2023: One paper on federated learning for test-time shifts has been accepted to **NeurIPS 2023**.
 * 09/2023: Invited as Reviewer of [ICLR 2024](https://iclr.cc/Conferences/2024).
 * 07/2023: Invited as Program Committee member of [AAAI 2024](https://aaai.org/aaai-conference/).
 * 07/2023: A tutorial on Recent Advancement on Federated Learning Combating Non-IID Data presented at [IJCNN-2023](https://2023.ijcnn.org/tutorials#session-6-48). 
