@@ -41,10 +41,10 @@ Conference PC Member/Reviewer
 
 Journal Reviewer
 ----
-* Reviewer, SCIENCE CHINA Information Sciences
+* Reviewer, Knowledge-Based Systems 2023
+* Reviewer, SCIENCE CHINA Information Sciences 2023
 * Reviewer, Knowledge and Information Systems 2022
 * Reviewer, Journal of Systems Architecture 2022
 * Reviewer, IEEE Communications Letters 2022
-* Subreviewer, Knowledge-Based Systems 2021
 * Subreviewer, IEEE TNNLS 2021
 * Subreviewer, Future Generation Computer Systems 2020
