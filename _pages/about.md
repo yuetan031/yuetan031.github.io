@@ -12,6 +12,9 @@ I am a Ph.D. student at Australian AI Institute, University of Technology Sydney
 
 My research interests are in machine learning, federated learning, and reinforcement learning. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. 
 
+<span style="color:red">I am on job market for a full-time research position this year. Please feel free to reach out if you have potential job opportunities.</span>
+
+
 News
 ------
 * 09/2023: One paper on handling test-time shifts in federated learning has been accepted to **NeurIPS 2023**.
