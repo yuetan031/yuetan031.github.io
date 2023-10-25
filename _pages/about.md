@@ -25,7 +25,7 @@ News
 * 06/2023: One paper accepted to the [FL4Data-Mining workshop](https://fl4data-mining.github.io/) at **KDD 2023**. 
 * 04/2023: Invited as Reviewer of [NeurIPS 2023](https://neurips.cc/).
 * 11/2022: One paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted to **AAAI 2023** <span style="color:red">(Oral)</span>.
-* 11/2022: I am honoured to receive the [NeurIPS 2022 Scholar Award](https://neurips.cc/Conferences/2022/FinancialAssistance).
+* 10/2022: I am honoured to receive the [NeurIPS 2022 Scholar Award](https://neurips.cc/Conferences/2022/FinancialAssistance).
 * 09/2022: One paper on [federated learning](https://arxiv.org/pdf/2209.10083.pdf) has been accepted to **NeurIPS 2022** <span style="color:red">(Spotlight)</span>.
 * 07/2022: One paper on [federated learning](https://openreview.net/pdf?id=j6-_a4VL6h) has been accepted to **ICML Workshop 2022**.
 * 12/2021: One paper on [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has been accepted to **AAAI 2022**.
@@ -53,6 +53,7 @@ Industrial Experiences
 
 Honors & Awards
 ------
+* 10/2023: NeurIPS 2023 Scholar Award.
 * 01/2023: AAAI 2023 Travel Grant.
 * 12/2022: Vice-Chancellor's Conference Fund 2022 Round 3. 
 * 12/2022: AAII-UTS Best Paper Award.
