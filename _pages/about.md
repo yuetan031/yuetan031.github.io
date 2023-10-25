@@ -17,6 +17,7 @@ My research interests are in machine learning, federated learning, and reinforce
 
 News
 ------
+* 10/2023: I am honoured to receive the [NeurIPS 2023 Scholar Award](https://nips.cc/Conferences/2023/FinancialAssistance).
 * 09/2023: One paper on handling test-time shifts in federated learning has been accepted to **NeurIPS 2023**.
 * 09/2023: Invited as Reviewer of [ICLR 2024](https://iclr.cc/Conferences/2024).
 * 07/2023: Invited as Program Committee member of [AAAI 2024](https://aaai.org/aaai-conference/).
