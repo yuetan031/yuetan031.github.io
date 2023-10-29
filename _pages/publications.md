@@ -20,6 +20,11 @@ author_profile: true
 
 ## Conference
 -----
+* Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning \[[PDF]()\] \[[Code]()\]  
+**Yue Tan**, Chen Chen, Weiming Zhuang, Xin Dong, Lingjuan Lyu, Guodong Long
+Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
+A short version has been accepted to SIGKDD Workshop on FL4Data-Mining, 2023.
+
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
 **Yue Tan**, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*Oral*</span>)  
