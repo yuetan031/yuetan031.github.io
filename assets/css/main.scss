@@ -40,6 +40,13 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__title,
+.page__meta,
+.page__lead {
+  margin-top: 0 !important;
+  margin-bottom: 0.5em !important;
+}
+
 .sidebar {
   width: 220px !important;
 }
