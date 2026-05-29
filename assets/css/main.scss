@@ -39,3 +39,31 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* ==== Font size adjustment ==== */
+
+/* About Me title */
+.page__title {
+  font-size: 1.4em !important;
+}
+
+/* Main body text */
+.page__content {
+  font-size: 0.85em !important;
+  line-height: 1.55 !important;
+}
+
+/* News / Education / Honors section headings */
+.page__content h2 {
+  font-size: 1.25em !important;
+}
+
+/* List items */
+.page__content li {
+  font-size: 0.95em !important;
+}
+
+/* Sidebar profile text */
+.sidebar {
+  font-size: 0.85em !important;
+}
