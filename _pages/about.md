@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student at Australian AI Institute, University of Technology Sydney, supervised by [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [A/Prof. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://profiles.uts.edu.au/chengqi.zhang). I obtained my B.S. degree and M.S. degree from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd).
+I am a research fellow in the School of Information and Communication Technology at Griffith University. Previously, I was a research fellow in the School of Computer Science and Engineering at the University of New South Wales (UNSW). I earned my Ph.D. from Australian AI Institute, University of Technology Sydney, supervised by [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [A/Prof. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://chengqi-zhang.github.io/). I obtained my B.S. and M.S. degrees from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd). I have also worked at Amazon, Sony AI, and NinjaTech AI as an applied scientist. 
 
-My research interests are in machine learning, federated learning, and reinforcement learning. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. 
+My research focuses on **federated learning**, **robust and trustworthy machine learning**, **multimodal machine learning**, **agentic AI**. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. My work has been published in leading journals and conferences, including NeurIPS, ACL, AAAI, IJCAI, EMNLP, ICML, and KDD.
 
-<span style="color:red">I am on job market for a full-time research position this year. Please feel free to reach out if you have potential job opportunities.</span>
-
+<span style="color:red">I am always open to research collaborations across diverse topics. Please feel free to contact me if you believe our research interests align.</span>
 
 News
 ------
+* 05/2026: One paper on [federated anomaly detection](https://arxiv.org/pdf/2605.09428) has been accepted by **IJCAI 2026**.
+* 04/2026: One paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by **ACL 2026** (Main Conference).
+* 01/2026: I am excited to share that our paper [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has received over 1000 citations! 🎉
+* 09/2025: My first-authored paper on [multimodal understanding](https://proceedings.neurips.cc/paper_files/paper/2025/file/3085fd61063840fdb2e6eafac58589f8-Paper-Conference.pdf) has been accepted to **NeurIPS 2025**.
+* 07/2025: Our team achieved 3rd Place (US$1500) - [KDD Cup 2025](https://discourse.aicrowd.com/t/meta-crag-challenge-2025-winners-announcement/17308), Meta Comprehensive RAG Multi-modal, Multi-turn (CRAG-MM) Challenge.
 * 10/2023: I am honoured to receive the [NeurIPS 2023 Scholar Award](https://nips.cc/Conferences/2023/FinancialAssistance).
 * 09/2023: One paper on handling test-time shifts in federated learning has been accepted to **NeurIPS 2023**.
 * 09/2023: Invited as Reviewer of [ICLR 2024](https://iclr.cc/Conferences/2024).
