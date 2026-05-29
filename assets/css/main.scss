@@ -40,13 +40,17 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.page__title,
-.page__meta,
-.page__lead {
+#main {
+  padding-top: 0 !important;
   margin-top: 0 !important;
-  margin-bottom: 0.5em !important;
 }
 
+.initial-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* Keep left profile sidebar but make content wider */
 .sidebar {
   width: 220px !important;
 }
@@ -54,40 +58,31 @@
 .page {
   width: calc(100% - 240px) !important;
   max-width: 1200px !important;
-}
-
-.page__content {
-  max-width: none !important;
-  width: 100% !important;
-}
-
-.page__inner-wrap,
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.initial-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-#main {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page {
   padding-top: 0 !important;
   margin-top: 0 !important;
 }
 
+/* Remove extra space above title */
 .page__inner-wrap {
   padding-top: 0 !important;
   margin-top: 0 !important;
 }
 
+.page__inner-wrap header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
 .page__title {
   margin-top: 0 !important;
   padding-top: 0 !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Make paragraphs actually use the wider area */
+.page__content {
+  max-width: none !important;
+  width: 100% !important;
+  padding-top: 0 !important;
+  margin-top: 0 !important;
 }
