@@ -20,7 +20,7 @@ author_profile: true
 
 ## Refereed Conference Papers
 -----
-* <strong style="color:#1f77b4;">Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning</strong> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/565f995643da6329cec701f26f8579f5-Paper-Conference.pdf)\]
+* Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/565f995643da6329cec701f26f8579f5-Paper-Conference.pdf)\]
 **Yue Tan**, Chen Chen, Weiming Zhuang, Xin Dong, Lingjuan Lyu, Guodong Long.  
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.  
 A short version has been accepted to SIGKDD Workshop on FL4Data-Mining, 2023.
