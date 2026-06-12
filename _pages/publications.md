@@ -49,22 +49,20 @@ International Conference on Knowledge Graph (**ICKG**), 2025.
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.  
 A short version has been accepted to SIGKDD Workshop on FL4Data-Mining, 2023.
 
-
-
-* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
+* <span class="publication-title">Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</span> \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
 **Yue Tan**, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*Oral*</span>)  
 
-* Federated Learning from Pre-Trained Models: A Contrastive Learning Approach \[[PDF](https://arxiv.org/pdf/2209.10083.pdf)\] \[[Code](https://github.com/yuetan031/FedPCL)\]  
+* <span class="publication-title">Federated Learning from Pre-Trained Models: A Contrastive Learning Approach</span> \[[PDF](https://arxiv.org/pdf/2209.10083.pdf)\] \[[Code](https://github.com/yuetan031/FedPCL)\]  
 **Yue Tan**, Guodong Long, Jie Ma, Lu Liu, Tianyi Zhou, Jing Jiang.  
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (<span style="color:red">*Spotlight*</span>)  
 A short version has been accepted to ICML Workshop on Pre-training, 2022.
 
-* FedProto: Federated Prototype Learning across Heterogeneous Clients \[[PDF](https://arxiv.org/pdf/2105.00243.pdf)\] \[[Code](https://github.com/yuetan031/fedproto)\]  
+* <span class="publication-title">FedProto: Federated Prototype Learning across Heterogeneous Clients</span> \[[PDF](https://arxiv.org/pdf/2105.00243.pdf)\] \[[Code](https://github.com/yuetan031/fedproto)\]  
 **Yue Tan**, Guodong Long, Lu Liu, Tianyi Zhou, Qinghua Lu, Jing Jiang, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<span style="color:red">*15% acceptance rate*</span>)
 
-* An In-Vehicle Keyword Spotting System with Multi-Source Fusion for Vehicle Applications \[[PDF](https://arxiv.org/pdf/1902.04326.pdf)\]  
+* <span class="publication-title">An In-Vehicle Keyword Spotting System with Multi-Source Fusion for Vehicle Applications</span> \[[PDF](https://arxiv.org/pdf/1902.04326.pdf)\]  
 **Yue Tan**, Kan Zheng, Lei Lei.  
 IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 
@@ -74,24 +72,24 @@ IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 Shaoxiong Ji, **Yue Tan**, Teemu Saravirta, Zhiqin Yang, Yixin Liu, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid. 
 International Journal of Machine Learning and Cybernetics, 2024.
 
-* LSTM-Based Anomaly Detection for Non-Linear Dynamical System \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105007)\]  
+* <span class="publication-title">LSTM-Based Anomaly Detection for Non-Linear Dynamical System</span> \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105007)\]  
 **Yue Tan**, Chunjing Hu, Kuan Zhang, Kan Zheng, Ethan A Davis, Jae Sung Park.  
 IEEE Access, 2020.
 
-* Dynamic Energy Dispatch Based on Deep Reinforcement Learning in IoT-Driven Smart Isolated Microgrids \[[PDF](https://arxiv.org/pdf/2002.02581.pdf)\]  
+* <span class="publication-title">Dynamic Energy Dispatch Based on Deep Reinforcement Learning in IoT-Driven Smart Isolated Microgrids</span> \[[PDF](https://arxiv.org/pdf/2002.02581.pdf)\]  
 Lei Lei, **Yue Tan**, Glenn Dahlenburg, Wei Xiang, Kan Zheng.  
 IEEE Internet of Things Journal, 2020. (<span style="color:red">*IF: 9.94*</span>)
 
-* Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges \[[PDF](https://arxiv.org/pdf/1907.09059.pdf)\]  
+* <span class="publication-title">Deep Reinforcement Learning for Autonomous Internet of Things: Model, Applications and Challenges</span> \[[PDF](https://arxiv.org/pdf/1907.09059.pdf)\]  
 Lei Lei, **Yue Tan**, Kan Zheng, Shiwen Liu, Kuan Zhang, Xuemin Shen.  
 IEEE Communications Surveys & Tutorials, 2020. (<span style="color:red">*Top-1 Journal in IEEE, IF: 25.25*</span>)
 
 ## Book Chapter
 -----
-* Federated Learning for Open Banking \[[LINK](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_17)\]  
+* <span class="publication-title">Federated Learning for Open Banking</span> \[[LINK](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_17)\]  
 Guodong Long, **Yue Tan**, Jing Jiang, Chengqi Zhang.  
 Federated Learning - Privacy and Incentive, *Editored by Prof. Qiang Yang*, Springer, 2020.
 
-* Federated Learning for Privacy-Preserving Open Innovation Future on Digital Health \[[LINK](https://www.springerprofessional.de/en/federated-learning-for-privacy-preserving-open-innovation-future/19920196)\]  
+* <span class="publication-title">Federated Learning for Privacy-Preserving Open Innovation Future on Digital Health</span> \[[LINK](https://www.springerprofessional.de/en/federated-learning-for-privacy-preserving-open-innovation-future/19920196)\]  
 Guodong Long, Tao Shen, **Yue Tan**, Leah Gerrard, Allison Clarke, Jing Jiang.  
 Humanity Driven AI, Springer, 2021.
