@@ -36,7 +36,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 Yunfeng Zhao, Yixin Liu, Qingfeng Chen, Shiyuan Li, **Yue Tan**, Shirui Pan.  
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
-* <span class="publication-title">Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG</span> \[[PDF](https://arxiv.org/pdf/2507.20136?)\]
+* <span class="publication-title">Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG</span> \[[PDF](https://arxiv.org/pdf/2507.20136?)\]  
 Baiyu Chen, Wilson Wongso, Xiaoqian Hu, **Yue Tan**, Flora Salim.
 Proceedings of the KDD Cup Workshop for Multimodal Retrieval Augmented Generation (CRAG-MM), 2025. (<span style="color:red">*3rd Place, US$1500*</span>)  
 
