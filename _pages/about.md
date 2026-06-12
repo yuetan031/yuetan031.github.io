@@ -42,7 +42,7 @@ News
 
 Education
 ------
-* Ph.D. (Current) in Computer Science, University of Technology Sydney  
+* Ph.D. (2024) in Computer Science, University of Technology Sydney  
 Advisor: [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long)
 
 * M.S. (2020) in Information and Communication Engineering, Beijing University of Posts and Telecommunications  
