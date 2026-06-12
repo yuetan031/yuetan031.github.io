@@ -15,16 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Preprint
------
-* <span class="publication-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]  
-Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.  
-arXiv preprint arXiv:2603.16459, 2026.
-
-* <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
-**Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
-arXiv preprint arXiv:2410.03315, 2024.
-
 
 ## Refereed Conference Papers
 -----
@@ -97,3 +87,15 @@ Federated Learning - Privacy and Incentive, *Editored by Prof. Qiang Yang*, Spri
 * <span class="publication-title">Federated Learning for Privacy-Preserving Open Innovation Future on Digital Health</span> \[[LINK](https://www.springerprofessional.de/en/federated-learning-for-privacy-preserving-open-innovation-future/19920196)\]  
 Guodong Long, Tao Shen, **Yue Tan**, Leah Gerrard, Allison Clarke, Jing Jiang.  
 Humanity Driven AI, Springer, 2021.
+
+## Preprint
+-----
+* <span class="publication-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]  
+Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.  
+arXiv preprint arXiv:2603.16459, 2026.
+
+* <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
+**Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
+arXiv preprint arXiv:2410.03315, 2024.
+
+
