@@ -36,15 +36,13 @@ Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 Yunfeng Zhao, Yixin Liu, Qingfeng Chen, Shiyuan Li, **Yue Tan**, Shirui Pan.  
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
-* <span class="publication-title">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2025/file/3085fd61063840fdb2e6eafac58589f8-Paper-Conference.pdf)\]  
+* <span class="publication-title">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2025/file/3085fd61063840fdb2e6eafac58589f8-Paper-Conference.pdf)\] \[[Code](https://github.com/cruiseresearchgroup/Bisecle)\]  
 **Yue Tan**, Xiaoqian Hu, Hao Xue, Celso De Melo, Flora D. Salim.  
 Thirty-ninth Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
 
 * <span class="publication-title">A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models</span> \[[PDF](https://arxiv.org/pdf/2509.06609)\]  
 Junjun Pan, Yu Zheng, **Yue Tan**, Yixin Liu.  
 International Conference on Knowledge Graph (**ICKG**), 2025.
-
-
 
 * <span class="publication-title">Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/565f995643da6329cec701f26f8579f5-Paper-Conference.pdf)\]  
 **Yue Tan**, Chen Chen, Weiming Zhuang, Xin Dong, Lingjuan Lyu, Guodong Long.  
