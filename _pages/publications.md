@@ -17,13 +17,41 @@ author_profile: true
 
 ## Preprint
 -----
+* <span class="publication-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]  
+Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.  
+arXiv preprint arXiv:2603.16459, 2026.
+
+* <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
+**Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
+arXiv preprint arXiv:2410.03315, 2024.
+
 
 ## Refereed Conference Papers
 -----
+* <span class="publication-title">BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks</span> \[[PDF](https://arxiv.org/pdf/2508.08127)\]  
+Rui Miao, Yixin Liu, Yili Wang, Xu Shen, **Yue Tan**, Yiwei Dai, Shirui Pan, Xin Wang.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
+
+* <span class="publication-title">FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-Level Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2605.09428)\]  
+Yunfeng Zhao, Yixin Liu, Qingfeng Chen, Shiyuan Li, **Yue Tan**, Shirui Pan.  
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
+
+* <span class="publication-title">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2025/file/3085fd61063840fdb2e6eafac58589f8-Paper-Conference.pdf)\]  
+**Yue Tan**, Xiaoqian Hu, Hao Xue, Celso De Melo, Flora D. Salim.  
+Thirty-ninth Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+
+* <span class="publication-title">A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models</span> \[[PDF](https://arxiv.org/pdf/2509.06609)\]  
+Junjun Pan, Yu Zheng, **Yue Tan**, Yixin Liu.  
+International Conference on Knowledge Graph (**ICKG**), 2025.
+
+
+
 * <span class="publication-title">Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/565f995643da6329cec701f26f8579f5-Paper-Conference.pdf)\]  
 **Yue Tan**, Chen Chen, Weiming Zhuang, Xin Dong, Lingjuan Lyu, Guodong Long.  
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.  
 A short version has been accepted to SIGKDD Workshop on FL4Data-Mining, 2023.
+
+
 
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
 **Yue Tan**, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
@@ -44,6 +72,10 @@ IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 
 ## Refereed Journal Articles
 -----
+* <span class="publication-title">Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning</span> \[[PDF](https://link.springer.com/article/10.1007/s13042-024-02119-1)\]  
+Shaoxiong Ji, **Yue Tan**, Teemu Saravirta, Zhiqin Yang, Yixin Liu, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid. 
+International Journal of Machine Learning and Cybernetics, 2024.
+
 * LSTM-Based Anomaly Detection for Non-Linear Dynamical System \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105007)\]  
 **Yue Tan**, Chunjing Hu, Kuan Zhang, Kan Zheng, Ethan A Davis, Jae Sung Park.  
 IEEE Access, 2020.
