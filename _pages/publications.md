@@ -34,10 +34,10 @@ Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 
 * <span class="publication-title">FedCIGAR: A Personalized Reconstruction Approach for Federated Graph-Level Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2605.09428)\]  
 Yunfeng Zhao, Yixin Liu, Qingfeng Chen, Shiyuan Li, **Yue Tan**, Shirui Pan.  
-International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.  
 
 * <span class="publication-title">Multi-Stage Verification-Centric Framework for Mitigating Hallucination in Multi-Modal RAG</span> \[[PDF](https://arxiv.org/pdf/2507.20136?)\]  
-Baiyu Chen, Wilson Wongso, Xiaoqian Hu, **Yue Tan**, Flora Salim.
+Baiyu Chen, Wilson Wongso, Xiaoqian Hu, **Yue Tan**, Flora Salim.  
 Proceedings of the KDD Cup Workshop for Multimodal Retrieval Augmented Generation (CRAG-MM), 2025. (<span style="color:red">*3rd Place, US$1500*</span>)  
 
 * <span class="publication-title">Bisecle: Binding and Separation in Continual Learning for Video Language Understanding</span> \[[PDF](https://proceedings.neurips.cc/paper_files/paper/2025/file/3085fd61063840fdb2e6eafac58589f8-Paper-Conference.pdf)\] \[[Code](https://github.com/cruiseresearchgroup/Bisecle)\]  
