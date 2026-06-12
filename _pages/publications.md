@@ -18,7 +18,7 @@ author_profile: true
 ## Preprint
 -----
 
-## Conference
+## Refereed Conference Papers
 -----
 * Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning \[[PDF]()\] \[[Code]()\]  
 **Yue Tan**, Chen Chen, Weiming Zhuang, Xin Dong, Lingjuan Lyu, Guodong Long.  
@@ -42,7 +42,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (<span style="color
 **Yue Tan**, Kan Zheng, Lei Lei.  
 IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 
-## Journal
+## Refereed Journal Articles
 -----
 * LSTM-Based Anomaly Detection for Non-Linear Dynamical System \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105007)\]  
 **Yue Tan**, Chunjing Hu, Kuan Zhang, Kan Zheng, Ethan A Davis, Jae Sung Park.  
