@@ -67,7 +67,7 @@ IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 ## Refereed Journal Articles
 -----
 * <span class="publication-title">Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning</span> \[[PDF](https://link.springer.com/article/10.1007/s13042-024-02119-1)\]  
-Shaoxiong Ji, **Yue Tan**, Teemu Saravirta, Zhiqin Yang, Yixin Liu, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid. 
+Shaoxiong Ji, **Yue Tan**, Teemu Saravirta, Zhiqin Yang, Yixin Liu, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid.  
 International Journal of Machine Learning and Cybernetics, 2024.
 
 * <span class="publication-title">LSTM-Based Anomaly Detection for Non-Linear Dynamical System</span> \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9105007)\]  
