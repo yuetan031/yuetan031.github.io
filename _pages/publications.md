@@ -26,7 +26,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
 Yunfeng Zhao, Yixin Liu, Qingfeng Chen, Shiyuan Li, **Yue Tan**, Shirui Pan.  
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2026.
 
-* <span class="publication-title">Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems</span> \[[PDF](https://aclanthology.org/2025.emnlp-main.623.pdf)\]  \[[Code](https://github.com/se7esx/EIB)\] 
+* <span class="publication-title">Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems</span> \[[PDF](https://aclanthology.org/2025.emnlp-main.623.pdf)\]  \[[Code](https://github.com/se7esx/EIB)\]  
 Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, Rui Miao, **Yue Tan**, Shirui Pan, Xin Wang.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025.
 
