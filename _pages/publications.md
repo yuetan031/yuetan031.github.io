@@ -66,6 +66,11 @@ IEEE Wireless Communications and Networking Conference (**WCNC**), 2019.
 
 ## Refereed Journal Articles
 -----
+* <span class="publication-title">From Unsupervised to Few-Shot Graph Anomaly Detection: A Multi-Scale Contrastive Learning Approach</span> \[[PDF](https://link.springer.com/article/10.1007/s13042-024-02119-1)\]  
+Yu Zheng, Junjun Pan, **Yue Tan**, Ming Jin, Yixin Liu, Lianhua Chi, Khoa Phan, Yi-Ping Phoebe Chen.  
+Transactions on Graph Intelligence and Network Applications, 2026. 
+
+
 * <span class="publication-title">Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning</span> \[[PDF](https://link.springer.com/article/10.1007/s13042-024-02119-1)\]  
 Shaoxiong Ji, **Yue Tan**, Teemu Saravirta, Zhiqin Yang, Yixin Liu, Lauri Vasankari, Shirui Pan, Guodong Long, Anwar Walid.  
 International Journal of Machine Learning and Cybernetics, 2024.
