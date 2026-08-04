@@ -105,14 +105,14 @@ Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.
 * <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
 **Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
 
-* <span class="publication-title">CORE: In-Context Reconstruction for Unified Tabular Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2607.27615)\]
-Yunfeng Zhao, Qingfeng Chen, **Yue Tan**, Shiyuan Li, Yili Wang, Yixin Liu, Shirui Pan.
+* <span class="publication-title">CORE: In-Context Reconstruction for Unified Tabular Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2607.27615)\]  
+Yunfeng Zhao, Qingfeng Chen, **Yue Tan**, Shiyuan Li, Yili Wang, Yixin Liu, Shirui Pan.  
 
-* <span class="publication-title">A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks</span> \[[PDF](https://arxiv.org/pdf/2607.25875)\]
-Du Yin, Xiachong Lin, **Yue Tan**, Jinliang Deng, Estrid He, Hao Xue, Flora D Salim.
+* <span class="publication-title">A2TTA: Anchored-and-Agile Test-Time Adaptation for Evolving Traffic Sensor Networks</span> \[[PDF](https://arxiv.org/pdf/2607.25875)\]  
+Du Yin, Xiachong Lin, **Yue Tan**, Jinliang Deng, Estrid He, Hao Xue, Flora D Salim.  
 
-* <span class="publication-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span> \[[PDF](https://www.preprints.org/frontend/manuscript/08d4727eefdbe5bf0fa1675e91898135/download_pub)\]
-Pengcheng Weng, Yanyu Qian, **Yue Tan**, Yixin Liu.
+* <span class="publication-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span> \[[PDF](https://www.preprints.org/frontend/manuscript/08d4727eefdbe5bf0fa1675e91898135/download_pub)\]  
+Pengcheng Weng, Yanyu Qian, **Yue Tan**, Yixin Liu.  
 
-* <span class="publication-title">Towards Anomaly Detection on Relational Data</span> \[[PDF](https://arxiv.org/pdf/2606.18621)\]
-Shiyuan Li, Yunfeng Zhao, **Yue Tan**, Qingfeng Chen, Yixin Liu, Shirui Pan.
+* <span class="publication-title">Towards Anomaly Detection on Relational Data</span> \[[PDF](https://arxiv.org/pdf/2606.18621)\]  
+Shiyuan Li, Yunfeng Zhao, **Yue Tan**, Qingfeng Chen, Yixin Liu, Shirui Pan.  
