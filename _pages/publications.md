@@ -18,6 +18,31 @@ author_profile: true
 
 ## Refereed Conference Papers
 -----
+
+* <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
+**Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
+IEEE International Conference on Data Mining (**ICDM**), 2026.
+
+* <span class="publication-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span>  
+Kehan Yan, **Yue Tan**, Qingfeng Chen, Shiyuan Li, Yu Zheng, Yixin Liu.  
+IEEE International Conference on Data Mining (**ICDM**), 2026.
+
+* <span class="publication-title">HOPE: Heterophily-Aware Open-Set Pseudo-Extrapolation for Graph Neural Networks</span>  
+Yumeng Dai, **Yue Tan**, Yixin Liu, Chenxu Wang, Pinghui Wang, Tao Qin.  
+IEEE International Conference on Data Mining (**ICDM**), 2026.
+
+* <span class="publication-title">DiFA: Dual Evidence Fusion and Aggregation for Token-Level Text Anomaly Detection</span>  
+Yanyu Qian, Pengcheng Weng, **Yue Tan**, Enguang Zuo, Yixin Liu, Shirui Pan.  
+IEEE International Conference on Data Mining (**ICDM**), 2026.
+
+* <span class="publication-title">PaSta: Noisy Node Classification with Partial Label Learning</span>  
+Yujing Liu, Yixin Liu, Zheng Yu, **Yue Tan**, Alan Liew, Shirui Pan.  
+IEEE International Conference on Data Mining (**ICDM**), 2026.
+
+* <span class="publication-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]  
+Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2026.
+
 * <span class="publication-title">BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks</span> \[[PDF](https://arxiv.org/pdf/2508.08127)\]  
 Rui Miao, Yixin Liu, Yili Wang, Xu Shen, **Yue Tan**, Yiwei Dai, Shirui Pan, Xin Wang.  
 Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026.
