@@ -35,7 +35,7 @@ IEEE International Conference on Data Mining (**ICDM**), 2026.
 Yanyu Qian, Pengcheng Weng, **Yue Tan**, Enguang Zuo, Yixin Liu, Shirui Pan.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
-* <span class="publication-title">PaSta: Noisy Node Classification with Partial Label Learning</span>  
+* <span class="publication-title">PaSta: Noisy Node Classification with Partial Label Learning</span> \[[PDF](https://arxiv.org/pdf/2608.25365)\]   
 Yujing Liu, Yixin Liu, Zheng Yu, **Yue Tan**, Alan Liew, Shirui Pan.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
@@ -124,12 +124,6 @@ Humanity Driven AI, Springer, 2021.
 
 ## Preprint
 -----
-* <span class="publication-title">DynHD: Hallucination Detection for Diffusion Large Language Models via Denoising Dynamics Deviation Learning</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]  
-Yanyu Qian, **Yue Tan**, Yixin Liu, Wang Yu, Shirui Pan.  
-
-* <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
-**Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
-
 * <span class="publication-title">CORE: In-Context Reconstruction for Unified Tabular Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2607.27615)\]  
 Yunfeng Zhao, Qingfeng Chen, **Yue Tan**, Shiyuan Li, Yili Wang, Yixin Liu, Shirui Pan.  
 
