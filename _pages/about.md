@@ -16,6 +16,8 @@ My research focuses on **federated learning**, **robust and trustworthy machine 
 
 News
 ------
+* 08/2026: Five papers have been accepted by **ICDM 2026**.
+* 08/2026: One paper on [hallucination detection](https://arxiv.org/pdf/2603.16459) has been accepted by **EMNLP 2026** (Finding).
 * 05/2026: One paper on [federated anomaly detection](https://arxiv.org/pdf/2605.09428) has been accepted by **IJCAI 2026**.
 * 04/2026: One paper on [multi-agent system safeguarding](https://arxiv.org/pdf/2508.08127) has been accepted by **ACL 2026** (Main Conference).
 * 01/2026: I am excited to share that our paper [federated prototype learning](https://arxiv.org/pdf/2105.00243.pdf) has received over 1000 citations! 🎉
