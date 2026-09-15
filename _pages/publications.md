@@ -23,11 +23,11 @@ author_profile: true
 **Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
-* <span class="publication-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span>  
+* <span class="publication-title">SIM: Subspace Interaction-based Method for Token-Level Text Anomaly Detection</span> \[[PDF](https://arxiv.org/pdf/2603.16459)\]   
 Kehan Yan, **Yue Tan**, Qingfeng Chen, Shiyuan Li, Yu Zheng, Yixin Liu.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
-* <span class="publication-title">HOPE: Heterophily-Aware Open-Set Pseudo-Extrapolation for Graph Neural Networks</span>  
+* <span class="publication-title">HOPE: Heterophily-Aware Open-Set Pseudo-Extrapolation for Graph Neural Networks</span>  \[[PDF](https://arxiv.org/pdf/2609.08685)\]   
 Yumeng Dai, **Yue Tan**, Yixin Liu, Chenxu Wang, Pinghui Wang, Tao Qin.  
 IEEE International Conference on Data Mining (**ICDM**), 2026.
 
