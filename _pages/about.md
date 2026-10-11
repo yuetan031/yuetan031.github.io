@@ -16,6 +16,7 @@ My research focuses on **federated learning**, **robust and trustworthy machine 
 
 News
 ------
+* 10/2026: I am listed among **World's Top 2% Scientists 2026**.
 * 08/2026: Five papers have been accepted by **ICDM 2026**.
 * 08/2026: One paper on [hallucination detection](https://arxiv.org/pdf/2603.16459) has been accepted by **EMNLP 2026** (Finding).
 * 05/2026: One paper on [federated anomaly detection](https://arxiv.org/pdf/2605.09428) has been accepted by **IJCAI 2026**.
