@@ -20,7 +20,7 @@ author_profile: true
 -----
 * <span class="publication-title">TRE: Training-Free Hallucination Detection for Diffusion Language Models</span> \[[PDF](https://arxiv.org/pdf/2607.22661)\]  
 Pengcheng Weng\*, Yanyu Qian\*, **Yue Tan**\*, Yixin Liu.  
-IEEE International Conference on Data Mining (**ICDM**), 2026.
+European Chapter of the Association for Computational Linguistics (**EACL**), 2027.
 
 * <span class="publication-title">Influence-oriented Personalized Federated Learning</span> \[[PDF](https://arxiv.org/pdf/2410.03315)\]  
 **Yue Tan**, Guodong Long, Jing Jiang, Chengqi Zhang.  
