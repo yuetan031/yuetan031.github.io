@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow in the School of Information and Communication Technology at Griffith University. Previously, I was a research fellow in the School of Computer Science and Engineering at the University of New South Wales (UNSW). I earned my Ph.D. from Australian AI Institute, University of Technology Sydney, supervised by [A/Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [A/Prof. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://chengqi-zhang.github.io/). I obtained my B.S. and M.S. degrees from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd). I have also worked at Amazon, Sony AI, and NinjaTech AI as an applied scientist. 
+I am a research fellow in the School of Information and Communication Technology at Griffith University. Previously, I was a research fellow in the School of Computer Science and Engineering at the University of New South Wales (UNSW). I earned my Ph.D. from Australian AI Institute, University of Technology Sydney, supervised by [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long), [A/Prof. Jing Jiang](https://profiles.uts.edu.au/jing.jiang), and [Prof. Chengqi Zhang](https://chengqi-zhang.github.io/). I obtained my B.S. and M.S. degrees from Beijing University of Posts and Telecommunications in 2017 and 2020, respectively, supervised by [Prof. Kan Zheng](https://scholar.google.com/citations?user=IX_id5UAAAAJ&hl=en&oi=ao) and [A/Prof. Lei Lei](https://www.uoguelph.ca/engineering/people/lei-lei-phd). I have also worked at Amazon, Sony AI, and NinjaTech AI as an applied scientist. 
 
 My research focuses on **federated learning**, **robust and trustworthy machine learning**, **multimodal machine learning**, and **agentic AI**. I am particularly interested in developing communication-efficient federated learning algorithms to solve heterogeneous problems in real-world applications. My work has been published in leading journals and conferences, including NeurIPS, ACL, AAAI, IJCAI, EMNLP, ICML, and KDD.
 
@@ -16,6 +16,7 @@ My research focuses on **federated learning**, **robust and trustworthy machine 
 
 News
 ------
+* 11/2026: One paper on [hallucination detection](https://arxiv.org/pdf/2607.22661) has been accepted by **EACL 2027**.
 * 10/2026: I am listed among **World's Top 2% Scientists 2026**.
 * 08/2026: Five papers have been accepted by **ICDM 2026**.
 * 08/2026: One paper on [hallucination detection](https://arxiv.org/pdf/2603.16459) has been accepted by **EMNLP 2026** (Finding).
